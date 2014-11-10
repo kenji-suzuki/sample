@@ -1,2 +1,3 @@
-MODIFY test
-ADD    test
+MODIFY  test
+ADD     test
+COMMENT test
